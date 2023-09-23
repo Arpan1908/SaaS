@@ -1,0 +1,26 @@
+.main-btn{
+    display: inline-block;
+    color: #111;
+    font-size: 16px;
+    font-weight:500;
+    text-transform: capitalize;
+    border: 2px solid #111;
+    padding: 12px 25px;
+    transition: all 0.42s ease;
+    animation: fadeInUp 1.5s ease-in-out forwards;
+
+}
+.main-btn:hover{
+    background: #111;
+    color: #fff;
+}
+.main-text h1{
+    color: #262525;
+    font-size: 25px;
+    text-transform:capitalize;
+    display: grid;
+    line-height:1.1;
+    font-weight: 600;
+    margin: 6px 0 10px;
+    animation: fadeInUp 1s ease-in-out forwards;
+}
